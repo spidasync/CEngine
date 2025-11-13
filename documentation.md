@@ -1,3 +1,7 @@
 # Documenation
 
-## Basics
+# Basics
+
+## Windows
+
+### - Main editor window
